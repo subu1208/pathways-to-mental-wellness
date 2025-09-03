@@ -1,6 +1,3 @@
-# pathways-to-mental-wellness
-Leveraging Predictive Models for Depression Risk Analysis
-
 # Prediction Models for Mental Health Analysis
 
 This project builds and evaluates machine learning models to predict depression (binary classification) based on personal, mental health, and socioeconomic features. The dataset includes preprocessed data for 2020, 2021, and 2022.
