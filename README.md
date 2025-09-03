@@ -2,6 +2,12 @@
 
 This project builds and evaluates machine learning models to predict depression (binary classification) based on personal, mental health, and socioeconomic features. The dataset includes preprocessed data for 2020, 2021, and 2022.
 
+## Dataset
+
+This project uses the SAMHSA Mental Health Client-Level Dataset (MH-CLD), which provides comprehensive information about mental health service utilization and client characteristics.
+Dataset Source: SAMHSA Mental-Health Client-Level Dataset
+The MH-CLD contains client-level data on mental health treatment admissions and discharges, including demographics, diagnoses, and treatment information from facilities that receive public funding.
+
 ## Project Overview
 
 We implemented and compared the following models:
